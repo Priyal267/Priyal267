@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyal Singhal</h1>
--🌱 I’m currently learning React
 
 -📫 How to reach me priyalsinghal11@gmail.com
 
